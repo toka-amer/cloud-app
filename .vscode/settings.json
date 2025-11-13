@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/17fa567b-e6eb-4e3c-a2e1-c445717eb2aa/resourceGroups/neighborly-rg/providers/Microsoft.Web/sites/neighborly-clientapp",
+    "appService.deploySubpath": ".",
+    "appService.showBuildDuringDeployPrompt": false
+}
